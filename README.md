@@ -1,11 +1,10 @@
 # Milk Carton Opener
 The Milk Carton Opener is a 3D printed aid that enables users with limited grip strength to open tetra pak cartons, including 2L cartons such as the ones used for milk and juice.
 
-<img src="Photos/milk-carton-opener.jpg" width="500" alt="A pink 3-D printed Milk Carton Opener resting on a table.">
+<img src="Photos/milk-carton-opener.jpg" height="500" alt="A pink 3-D printed Milk Carton Opener resting on a table."> <img src="Photos/milk-carton-opener-demo.jpg" height="500" alt="Someone holding the Milk Carton Opener in their hand to remove the cap of a milk carton.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/milk-carton-opener/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/milk-carton-opener/)
 
 
 ## How to Obtain a Milk Carton Opener
@@ -53,19 +52,14 @@ Reference the [Assembly Guide](/Documentation/Milk_Carton_Opener_Assembly_Guide_
 | Changelog            | 1.0     | [Milk_Carton_Opener_Changelog](/Documentation/Milk_Carton_Opener_Changelog_V1.0.pdf)     |
 
 ### Design Files
-
-[CAD Files](/Design_Files)
+ - [CAD Files](/Design_Files)
 
 ### Build Files
-
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
-
 - Design by Tony Glynn
 - Documentation by Neil Squire Society/Makers Making Change
-
-
 
 
 ## License
@@ -73,7 +67,7 @@ Reference the [Assembly Guide](/Documentation/Milk_Carton_Opener_Assembly_Guide_
 Everything needed or used to design, make, test, or prepare the Milk Carton Opener is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -91,3 +85,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
