@@ -4,7 +4,7 @@ The Milk Carton Opener is a 3D printed aid that enables users with limited grip 
 <img src="Photos/milk-carton-opener.jpg" height="500" alt="A pink 3-D printed Milk Carton Opener resting on a table."> <img src="Photos/milk-carton-opener-demo.jpg" height="500" alt="Someone holding the Milk Carton Opener in their hand to remove the cap of a milk carton.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/milk-carton-opener/)
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/product/milk-carton-opener/01tJR0000009SczYAE)
 
 
 ## How to Obtain a Milk Carton Opener
@@ -14,7 +14,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Milk Carton Opener , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/milk-carton-opener/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Milk Carton Opener , you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/product/milk-carton-opener/01tJR0000009SczYAE). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
